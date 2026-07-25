@@ -21,8 +21,13 @@ Journey of coding ...
 | ------- |
 | [0009-palindrome-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2235-add-two-integers) |
+| [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
