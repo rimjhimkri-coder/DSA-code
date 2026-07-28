@@ -29,6 +29,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0155-min-stack) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
