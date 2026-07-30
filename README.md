@@ -24,6 +24,7 @@ Journey of coding ...
 | ------- |
 | [0009-palindrome-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
