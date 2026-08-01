@@ -13,17 +13,20 @@ Journey of coding ...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2235-add-two-integers) |
