@@ -31,6 +31,7 @@ Journey of coding ...
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
