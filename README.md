@@ -25,6 +25,7 @@ Journey of coding ...
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
