@@ -40,6 +40,7 @@ Journey of coding ...
 | [2235-add-two-integers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
@@ -80,4 +81,8 @@ Journey of coding ...
 | ------- |
 | [0027-remove-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
