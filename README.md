@@ -8,6 +8,7 @@ Journey of coding ...
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0027-remove-element) |
+| [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,4 +93,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
