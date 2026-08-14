@@ -28,6 +28,7 @@ Journey of coding ...
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -80,6 +81,7 @@ Journey of coding ...
 | ------- |
 | [0013-roman-to-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0013-roman-to-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -103,4 +105,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
