@@ -43,6 +43,7 @@ Journey of coding ...
 | [0009-palindrome-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -81,6 +82,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3731-find-missing-elements) |
@@ -94,6 +96,7 @@ Journey of coding ...
 | [0027-remove-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
 ## Enumeration
 |  |
@@ -127,4 +130,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
