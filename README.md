@@ -16,6 +16,7 @@ Journey of coding ...
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -86,6 +87,7 @@ Journey of coding ...
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
