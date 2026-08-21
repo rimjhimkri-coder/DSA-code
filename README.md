@@ -27,6 +27,7 @@ Journey of coding ...
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -62,6 +63,7 @@ Journey of coding ...
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -85,6 +87,7 @@ Journey of coding ...
 | ------- |
 | [0013-roman-to-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
