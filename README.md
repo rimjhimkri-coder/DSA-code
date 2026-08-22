@@ -55,6 +55,7 @@ Journey of coding ...
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
