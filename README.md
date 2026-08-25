@@ -14,6 +14,7 @@ Journey of coding ...
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -61,6 +62,7 @@ Journey of coding ...
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
 ## Counting Sort
 |  |
 | ------- |
@@ -146,4 +149,16 @@ Journey of coding ...
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
