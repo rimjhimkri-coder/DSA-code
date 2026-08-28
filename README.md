@@ -38,6 +38,7 @@ Journey of coding ...
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
@@ -49,6 +50,7 @@ Journey of coding ...
 | [0066-plus-one](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -164,4 +166,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
