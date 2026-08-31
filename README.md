@@ -12,6 +12,7 @@ Journey of coding ...
 | [0088-merge-sorted-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -71,6 +72,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -90,11 +92,13 @@ Journey of coding ...
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -177,4 +181,12 @@ Journey of coding ...
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
