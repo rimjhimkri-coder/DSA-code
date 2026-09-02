@@ -21,6 +21,7 @@ Journey of coding ...
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Journey of coding ...
 | [3345-smallest-divisible-digit-product-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
