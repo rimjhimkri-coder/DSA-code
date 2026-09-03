@@ -13,6 +13,7 @@ Journey of coding ...
 | [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -53,6 +54,7 @@ Journey of coding ...
 | [0070-climbing-stairs](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -76,6 +78,7 @@ Journey of coding ...
 | [0088-merge-sorted-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -103,6 +106,7 @@ Journey of coding ...
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -128,6 +132,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,4 +196,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
