@@ -33,6 +33,7 @@ Journey of coding ...
 | [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -44,6 +45,7 @@ Journey of coding ...
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -54,6 +56,7 @@ Journey of coding ...
 | [0009-palindrome-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0258-add-digits) |
@@ -136,6 +139,7 @@ Journey of coding ...
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
