@@ -59,6 +59,7 @@ Journey of coding ...
 | [0067-add-binary](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -141,6 +142,7 @@ Journey of coding ...
 | ------- |
 | [0067-add-binary](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
@@ -198,6 +200,7 @@ Journey of coding ...
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
