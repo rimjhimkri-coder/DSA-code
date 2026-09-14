@@ -66,6 +66,7 @@ Journey of coding ...
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2469-convert-the-temperature) |
@@ -214,4 +215,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
