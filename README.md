@@ -19,6 +19,7 @@ Journey of coding ...
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -93,6 +94,7 @@ Journey of coding ...
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -101,6 +103,7 @@ Journey of coding ...
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Design
 |  |
@@ -111,6 +114,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -213,6 +217,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -225,4 +230,16 @@ Journey of coding ...
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0836-rectangle-overlap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
