@@ -3,7 +3,7 @@ public:
 
     int partition(vector<int>& arr, int low, int high)
     {
-        // Middle element ko pivot banaya
+    
         int mid = low + (high - low) / 2;
 
         swap(arr[low], arr[mid]);
