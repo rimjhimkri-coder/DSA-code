@@ -244,4 +244,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
