@@ -86,6 +86,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0155-min-stack) |
 | [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
 ## Sorting
@@ -248,4 +249,16 @@ Journey of coding ...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
