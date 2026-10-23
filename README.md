@@ -11,6 +11,7 @@ Journey of coding ...
 | [0027-remove-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,6 +220,7 @@ Journey of coding ...
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -253,6 +255,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,4 +264,9 @@ Journey of coding ...
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
