@@ -29,6 +29,7 @@ Journey of coding ...
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -86,6 +87,7 @@ Journey of coding ...
 | [3536-maximum-product-of-two-digits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
