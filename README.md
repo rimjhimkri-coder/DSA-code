@@ -212,6 +212,7 @@ Journey of coding ...
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0206-reverse-linked-list) |
 | [1472-design-browser-history](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -228,6 +229,7 @@ Journey of coding ...
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0509-fibonacci-number) |
