@@ -46,6 +46,7 @@ Journey of coding ...
 | [0125-valid-palindrome](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0709-to-lower-case) |
@@ -129,6 +130,7 @@ Journey of coding ...
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -142,6 +144,7 @@ Journey of coding ...
 | [0217-contains-duplicate](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0383-ransom-note) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rimjhimkri-coder/DSA-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rimjhimkri-coder/DSA-code/tree/master/3471-find-the-largest-almost-missing-integer) |
