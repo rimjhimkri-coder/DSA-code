@@ -277,15 +277,18 @@ Journey of coding ...
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -315,4 +318,8 @@ Journey of coding ...
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
