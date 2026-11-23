@@ -48,6 +48,7 @@ Journey of coding ...
 | [0242-valid-anagram](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0709-to-lower-case) |
@@ -165,6 +166,7 @@ Journey of coding ...
 | [0202-happy-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimjhimkri-coder/DSA-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Enumeration
 |  |
@@ -186,6 +188,7 @@ Journey of coding ...
 | [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
