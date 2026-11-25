@@ -179,6 +179,7 @@ Journey of coding ...
 | [0136-single-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
@@ -188,6 +189,7 @@ Journey of coding ...
 | [0118-pascals-triangle](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0509-fibonacci-number) |
 ## Sliding Window
