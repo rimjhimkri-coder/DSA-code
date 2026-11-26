@@ -181,6 +181,7 @@ Journey of coding ...
 | [0268-missing-number](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0476-number-complement](https://github.com/rimjhimkri-coder/DSA-code/tree/master/0476-number-complement) |
 ## Dynamic Programming
 |  |
 | ------- |
